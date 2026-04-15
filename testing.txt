@@ -1,1 +1,3 @@
-hello
+hello, 
+updating the DOCUMEntation with following api
+-/api/hubhuba: it fetches data
